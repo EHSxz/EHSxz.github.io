@@ -1,8 +1,10 @@
 # My Webpage
 
-## To-Do List
+This is about the webpage.
 
-[] Learn HTML.
-[] Learn CSS.
-[] Design Webpage.
-[] Add documents.
+### To-Do List
+
+- [ ] Learn HTML.
+- [ ] Learn CSS.
+- [ ] Design Webpage.
+- [ ] Add documents.
